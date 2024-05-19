@@ -19,18 +19,24 @@ The dataset comprises of over by over details of matches and runs from 2008 to 2
 
 Dataset Used: ipl_data.csv
 
-mid - match id
-date - when matches are played
-venue - place where matches aew played
-bat_team - batting team
-bowl_team - bowling team
-batsman - batsman
-bowler - bowler
-runs - runs scored
-wickets - wickets
-overs - overs - next 3 are based on this
-run_last_5 - runs scored in last 5 overs
-wicket_last_5 - wickets in last 5 overs
-stricker - batsman playing as main 1
-non-striker - batsman playing as runner up - not main 0
-total - total score (target variable)
+1. mid - match id
+2. date - when matches are played
+3. venue - place where matches aew played
+4. bat_team - batting team
+5. bowl_team - bowling team
+6. batsman - batsman
+7. bowler - bowler
+8. runs - runs scored
+9. wickets - wickets
+10. overs - overs - next 3 are based on this
+11. run_last_5 - runs scored in last 5 overs
+12. wicket_last_5 - wickets in last 5 overs
+13. stricker - batsman playing as main 1
+14. non-striker - batsman playing as runner up - not main 0
+15. total - total score (target variable)
+
+
+Use Case:
+
+<img width="560" alt="image" src="https://github.com/lizzz25/IPL_Score-Predictor/assets/92105352/6115e0de-6d64-4582-a871-e3dd6b15f80b">
+
